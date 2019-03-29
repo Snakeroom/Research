@@ -1,1 +1,1 @@
-So far, no code relating to April Fools 2019 has been found in the redesign's JavaScript code.
+A subreddit named r/sequence was found in Frontpage.js.
