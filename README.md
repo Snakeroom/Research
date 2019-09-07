@@ -4,4 +4,4 @@ This repository contains research for Reddit events (mainly for April Fools' Day
 
 ## Structure
 
-Each top-level directory represents a year in Reddit history, and all subdirectories represent events occurring that year. Event directories contain Markdown files with research and other historical information for that event.
+Each top-level directory represents a year in Reddit history, and all subdirectories represent events occurring that year. Events that take place over multiple years are included in the year directory that they first started in. Event directories contain Markdown files with research and other historical information for that event.
