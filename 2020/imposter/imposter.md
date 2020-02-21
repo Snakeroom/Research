@@ -1,8 +1,8 @@
 # r/Imposter
 
-[r/Imposter](https://www.reddit.com/r/imposter) is a subreddit created on 1/30/2019, 3:58:53 PM EST <!-- 2019-01-30T20:58:53+00:00 -->.
+[r/Imposter](https://www.reddit.com/r/imposter) is a subreddit created on <time datetime="2019-01-30T20:58:53+00:00">1/30/2019, 3:58:53 PM EST</time>.
 
-On 2/19/2020, 3:00:36 AM EST <!-- 2020-02-19T08:00:36.554Z -->, AprilControl detected the subreddit as now being controlled by an admin. Visiting it in fact reveals that as of 2/18/2020, 4:53:23 PM EST, <!-- 2020-02-18T21:53:23+00:00 --> the admin [u/powerlanguage](https://www.reddit.com/user/powerlanguage) is a moderator.
+On <time datetime="2020-02-19T08:00:36.554Z">2/19/2020, 3:00:36 AM EST</time>, AprilControl detected the subreddit as now being controlled by an admin. Visiting it in fact reveals that as of <time datetime="2020-02-18T21:53:23+00:00">2/18/2020, 4:53:23 PM EST</time>, the admin [u/powerlanguage](https://www.reddit.com/user/powerlanguage) is a moderator.
 
 In an effort to figure out how the subreddit was transferred, [a conver](https://cdn.discordapp.com/attachments/671504659462225946/679915855722840154/unknown.png)[sation](https://cdn.discordapp.com/attachments/671504659462225946/679916710752550971/unknown.png) was held with the original owner, [u/seat_toad](https://www.reddit.com/user/seat_toad). The following is a transcript of the conversation:
 

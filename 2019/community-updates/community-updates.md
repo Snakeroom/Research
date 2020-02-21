@@ -1,8 +1,8 @@
 # Community Updates
 
-The community updates experiment involves the admin account [u/CommunityUpdates](https://www.reddit.com/user/CommunityUpdates), which was created on August 23, 2019 at 21:58:05 UTC. The account sends multiple private messages to creators of new subreddits. Every message has the subject `Tips for successfully growing your community`.
+The community updates experiment involves the admin account [u/CommunityUpdates](https://www.reddit.com/user/CommunityUpdates), which was created on <time datetime="2019-08-23T21:58:05.000Z">8/23/2019, 5:58:05 PM EST</time>. The account sends multiple private messages to creators of new subreddits. Every message has the subject `Tips for successfully growing your community`.
 
-Each message is sent around a day after the previous. The scheduling is not precise; for example, the first message for a community came at September 7, 2019 at 20:27:39 UTC, and the second came slightly over a day later at September 8, 2019 at 20:30:15 UTC.
+Each message is sent around a day after the previous. The scheduling is not precise; for example, the first message for a community came at <time datetime="2019-09-07T20:27:39.000Z">9/7/2019, 4:27:39 PM EST</time>, and the second came slightly over a day later at <time datetime="2019-09-08T20:30:15.000Z">9/8/2019, 4:30:15 PM EST</time>.
 
 If a user creates multiple subreddits, they will recieve the series of tips multiple times in parallel.
 
