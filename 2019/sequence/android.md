@@ -1,4 +1,4 @@
-# Android
+# Sequence on Android
 
 Code relating to April Fools 2019 was first found in the second build of 3.23.0. There are two different parts: `com.reddit.aprilfools2019` and `com.reddit.sequence`, which will both be detailed below.
 

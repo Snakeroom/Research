@@ -1,3 +1,5 @@
+# r/Sequence
+
 [The subreddit](https://www.reddit.com/r/sequence) was referenced in Frontpage.js of the redesign and is private. It seems that a modmail must be sent with the answer to unlock the next level, which is indicated after the subreddit description/hint in the below chart:
 
 Description | Answer (maybe)

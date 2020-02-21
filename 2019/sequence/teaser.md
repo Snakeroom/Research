@@ -1,6 +1,6 @@
-# Teaser
+# Sequence Teaser Page
 
-On the evening of March 29, 2019, [the teaser page](https://reddit.com/sequence) <!-- needs archiving --> was opened. Alongside this discovery, [the ARG](arg.md) 
+On the evening of March 29, 2019, [the teaser page](https://reddit.com/sequence) <!-- needs archiving --> was opened. Alongside this discovery, [the ARG](arg.md)
 
 In the source of the page, several things could be found including a comment referencing sneks. <!-- insert comment -->
 
