@@ -1,4 +1,6 @@
-# r/Imposter
+# Discovery of Imposter Subreddits
+
+## r/Imposter
 
 [r/Imposter](https://www.reddit.com/r/imposter) is a subreddit created on <time datetime="2019-01-30T20:58:53+00:00">1/30/2019, 3:58:53 PM EST</time>.
 
@@ -39,3 +41,17 @@ After this conversation occured, u/seat_toad [deleted their responses and sent t
    || ||
    ^^ ^^
 ```
+
+## r/Second
+
+[r/Second](https://reddit.com/r/second) is a subreddit created by [u/Tacoeconomy](https://www.reddit.com/user/Tacoeconomy) on <time datetime="2010-04-20T16:56:34.000Z">4/20/2010, 12:56:34 PM EST</time>. An archive of this subreddit is available [here](https://web.archive.org/web/20120124132042/http://www.reddit.com/r/Second).
+
+On <time datetime="2020-02-18T17:50:00.000Z">2/18/2020, 12:50:00 PM EST</time>, u/powerlanguage submitted [a subreddit reclaim request](https://www.reddit.com/r/redditrequest/comments/f5vnvt/requesting_rsecond_only_mod_inactive/) to [r/redditrequest](https://www.reddit.com/r/redditrequest).
+
+Afterwards, the subreddit became private, with its description being a single clock emoji at 3 o'clock:
+
+```
+🕒
+```
+
+An archive of this subreddit at its earliest private state is available [here](https://web.archive.org/web/20200219085825/https://www.reddit.com/r/second/).
