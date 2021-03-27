@@ -6,7 +6,7 @@ As of [version 2020.10.0](https://www.reddit.com/r/redditmobile/comments/fnrc3s/
 
 The event icon appears in the top of the home and communities tabs next to search bar with an icon of an eye mask. Clicking this button takes you to the [r/Imposter](https://www.reddit.com/r/imposter) subreddit.
 
-The event embed appears in the top of r/Imposter, pointing to `https://gremlins-api.reddit.com/embed?platform=android`. When night mode is enabled, the query parameter `nightmode` is set to 1` as well. When the embed is tapped, a fullscreen version is launched, pointing to `https://gremlins-api.reddit.com/embed?platform=android&fullscreen=1` (along with the `nightmode` parameter if night mode is enabled).
+The event embed appears in the top of r/Imposter, pointing to `https://gremlins-api.reddit.com/embed?platform=android`. When night mode is enabled, the query parameter `nightmode` is set to 1 as well. When the embed is tapped, a fullscreen version is launched, pointing to `https://gremlins-api.reddit.com/embed?platform=android&fullscreen=1` (along with the `nightmode` parameter if night mode is enabled).
 
 ## iOS Application
 
