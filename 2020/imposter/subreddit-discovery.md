@@ -10,7 +10,7 @@ In an effort to figure out how the subreddit was transferred, [a conver](https:/
 
 > How do you know abt imposter
 >
-> > https://www.reddit.com/r/Imposter/comments/alheme/imposter_has_been_created/
+> > <https://www.reddit.com/r/Imposter/comments/alheme/imposter_has_been_created/>
 >
 > Yeah I used to moderate that
 >
