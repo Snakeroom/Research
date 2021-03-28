@@ -56,6 +56,6 @@ Afterwards, the subreddit became private, with its description being a single cl
 
 An archive of this subreddit at its earliest private state is available [here](https://web.archive.org/web/20200219085825/https://www.reddit.com/r/second/).
 
-## Future Use of r/second
+### Future Use of r/second
 
 On <time datetime="2021-03-23T17:50:00.000Z">3/23/2021, 5:50:00 PM EST</time>, datamining revealed that r/second was the event sub for the 2021 Reddit AFD event. The research file for this is [linked here](https://github.com/Snakeroom/Research/blob/Create-r/Second-Discovery-Page/2021/second/subreddit-discovery.md#discovery-of-rsecond).
